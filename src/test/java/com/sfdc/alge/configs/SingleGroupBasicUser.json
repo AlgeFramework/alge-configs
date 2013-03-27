@@ -1,0 +1,11 @@
+{
+    "name" : "G1",
+    "description" : "A single group scenario ...",
+    "maxConcurrency" : 10,
+    "userType" : {
+        "description" : "A basic user .. and other optional text",
+        "requestsFile" : "src/test/java/com/sfdc/alge/configs/flow.txt",
+        "userType" : "BasicUser",
+        "name" : "my name"
+    }
+}
